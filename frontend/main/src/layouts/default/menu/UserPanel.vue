@@ -1,9 +1,9 @@
 <template>
   <div :class="`${prefixCls}`">
-    <div class="docs-wrapper">
+    <!-- <div class="docs-wrapper">
       <img class="cursor-pointer" v-if="!type" :src="docs" @click="handleGoDocs" />
       <img class="cursor-pointer" v-else :src="docsMini" @click="handleGoDocs" />
-    </div>
+    </div> -->
     <Divider />
     <Popover placement="rightBottom">
       <template #content>
