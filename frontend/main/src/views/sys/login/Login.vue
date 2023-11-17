@@ -3,8 +3,7 @@
     <div class="content">
       <div class="logo">
         <img class="logo-img" :src="logoImg" alt="" />
-        <div class="split"> </div>
-        <img class="logo-qlf" :src="logoQlf" alt="" />
+        
       </div>
 
       <div class="info">
