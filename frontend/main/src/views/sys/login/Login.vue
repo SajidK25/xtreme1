@@ -7,9 +7,7 @@
       </div>
 
       <div class="info">
-        <span class="link cursor-pointer" @click="handleGoPortal">BasicAI </span> x1 Community
-        Edition is an open-source platform optimizing your data labeling and accelerating AI and
-        machine learning with MLOps
+        X1 Community Edition is an open-source platform optimizing your data labeling and accelerating AI and machine learning with MLOps their is this text on regestration remove basic ai and on the picture under it their is the basic ai logo
       </div>
       <img class="rect-mask" :src="rectMask" alt="" />
       <img class="bg-tip" :src="bgTip" alt="" />

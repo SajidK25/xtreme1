@@ -28,10 +28,14 @@
           <img :src="userImg" alt="" />
           <div class="item-name">{{ t('routes.profile.profile') }}</div>
         </div>
-        <div class="card-item" @click="handleGoDocs">
+        <div class="card-item">
           <img :src="documentImg" alt="" />
           <div class="item-name">Docs</div>
         </div>
+        <!-- <div class="card-item" @click="handleGoDocs">
+          <img :src="documentImg" alt="" />
+          <div class="item-name">Docs</div>
+        </div> -->
       </div>
     </div>
   </div>
